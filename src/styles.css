@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+.numeroEntero {
+  margin-bottom: 10px;
+}
+#etiquetaResultado {
+  margin: 20px;
+  color: brown;
+}
+div {
+  margin-top: 10px;
+}
